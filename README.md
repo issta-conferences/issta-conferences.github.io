@@ -2,12 +2,12 @@
 
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
 
-### Upcoming editions:
+## Upcoming editions:
 
 * [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
 	Chairs: René Just, Gordon Fraser
 
-### Past editions:
+## Past editions:
 
 * [ISSTA 2022](https://conf.researchr.org/home/issta-2022), Online <br/>
 	Chairs: Sukyoung Ryu, Yannis Smaragdakis
@@ -82,3 +82,23 @@ Vice-chair: Sukyoung Ryu <br/>
 * Koushik Sen (until 2024)
 * Andreas Zeller (until 2023)
 * Abhik Roychoudhury (until 2023)
+
+
+## ISSTA Impact Paper Awards
+
+The ISSTA Impact Paper Award in year X is awarded to only one paper annually, published in ISSTA X-10, which has had a significant influence on the research and/or practice of software testing and analysis
+
+* 2022: Jaco Geldenhuys, Matthew B. Dwyer, Willem Visser. Probabilistic symbolic execution (published in ISSTA 2012)
+* 2021: Chris Parnin and Alessandro Orso. Are automated debugging techniques actually helping programmers? (published in ISSTA 2011)
+* 2020: Gordon Fraser and Andreas Zeller. Mutation-driven generation of unit tests and oracles (published in ISSTA 2010)
+* 2019: Adam Kiezun, Vijay Ganesh, Philip J. Guo, Pieter Hooimeijer, Michael D. Ernst. HAMPI: a solver for string constraints (published in ISSTA 2009)
+* 2018: Matthew M. Papi, Mahmood Ali, Telmo Luis Correa Jr., Jeff H. Perkins, Michael D. Ernst. Practical Pluggable Types for Java (published in ISSTA 2008)
+* 2017: James Clause, Wanchun Li, Alessandro Orso. Dytan: a generic dynamic taint analysis framework (published in ISSTA 2007)
+
+## ISSTA Retrospective Paper Awards
+
+Retrospective paper awards were only given between 2018 and 2020. They are awarded to papers published at ISSTA more than 10 years before the award which have had a significant influence of the research and/or practice of software testing and analysis.
+
+* 2020: Gregg Rothermel and Mary Jean Harrold. Selecting tests and identifying test coverage requirements for modified software (published in ISSTA 1994)
+* 2019: Stephen Fink, Eran Yahav, Nurit Dor, G. Ramalingam, Emmanuel Geay. Effective typestate verification in the presence of aliasing (published in ISSTA 2006)
+* 2018: Willem Visser, Corina S. Păsăreanu, Sarfraz Khurshid. Test Input Generation with Java PathFinder (published in ISSTA 2004)
