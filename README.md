@@ -1,13 +1,18 @@
+---
+layout: default
+---
+
+ 
 # ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
 
-## Upcoming editions:
+## <a name="upcoming">Upcoming editions</a>
 
 * [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
 	Chairs: René Just, Gordon Fraser
 
-## Past editions:
+## <a name="previous">Previous editions</a>
 
 * [ISSTA 2022](https://conf.researchr.org/home/issta-2022), Online <br/>
 	Chairs: Sukyoung Ryu, Yannis Smaragdakis
@@ -59,7 +64,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Thomas J. Ostrand, Elaine J. Weyuker
 
 
-## Steering Committee (2022-23)
+## <a name="steering">Steering Committee (2022-23)</a>
 
 Chair: Cristian Cadar <br/>
 Vice-chair: Sukyoung Ryu <br/>
@@ -84,7 +89,7 @@ Vice-chair: Sukyoung Ryu <br/>
 * Abhik Roychoudhury (until 2023)
 
 
-## ISSTA Impact Paper Awards
+## <a name="impact">ISSTA Impact Paper Awards</a>
 
 The ISSTA Impact Paper Award in year X is awarded to only one paper annually, published in ISSTA X-10, which has had a significant influence on the research and/or practice of software testing and analysis
 
@@ -95,7 +100,8 @@ The ISSTA Impact Paper Award in year X is awarded to only one paper annually, pu
 * 2018: Matthew M. Papi, Mahmood Ali, Telmo Luis Correa Jr., Jeff H. Perkins, Michael D. Ernst. Practical Pluggable Types for Java (published in ISSTA 2008)
 * 2017: James Clause, Wanchun Li, Alessandro Orso. Dytan: a generic dynamic taint analysis framework (published in ISSTA 2007)
 
-## ISSTA Retrospective Paper Awards
+
+## <a name="retrospective">ISSTA Retrospective Paper Awards</a>
 
 Retrospective paper awards were only given between 2018 and 2020. They are awarded to papers published at ISSTA more than 10 years before the award which have had a significant influence of the research and/or practice of software testing and analysis.
 
