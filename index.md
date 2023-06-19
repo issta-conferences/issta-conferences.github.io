@@ -11,7 +11,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 
 * [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
 	Chairs: René Just, Gordon Fraser
-* ISSTA 2024, Vienna, Austria <br/>
+* [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
     Chairs: Maria Christakis, Michael Pradel
 
 ## <a name="previous">Previous Editions</a>
