@@ -95,18 +95,19 @@ Vice-chair: Sukyoung Ryu <br/>
 
 The ISSTA Impact Paper Award in year X is awarded to only one paper annually, published in ISSTA X-10, which has had a significant influence on the research and/or practice of software testing and analysis
 
-* 2022: Jaco Geldenhuys, Matthew B. Dwyer, Willem Visser. Probabilistic symbolic execution (published in ISSTA 2012)
-* 2021: Chris Parnin and Alessandro Orso. Are automated debugging techniques actually helping programmers? (published in ISSTA 2011)
-* 2020: Gordon Fraser and Andreas Zeller. Mutation-driven generation of unit tests and oracles (published in ISSTA 2010)
-* 2019: Adam Kiezun, Vijay Ganesh, Philip J. Guo, Pieter Hooimeijer, Michael D. Ernst. HAMPI: a solver for string constraints (published in ISSTA 2009)
-* 2018: Matthew M. Papi, Mahmood Ali, Telmo Luis Correa Jr., Jeff H. Perkins, Michael D. Ernst. Practical Pluggable Types for Java (published in ISSTA 2008)
-* 2017: James Clause, Wanchun Li, Alessandro Orso. Dytan: a generic dynamic taint analysis framework (published in ISSTA 2007)
+* 2023: Ding Li, Shuai Hao, William G.J. Halfond, Ramesh Govindan. [Calculating source line level energy information for Android applications](https://dl.acm.org/doi/10.1145/2483760.2483780) (published in ISSTA 2013)
+* 2022: Jaco Geldenhuys, Matthew B. Dwyer, Willem Visser. [Probabilistic symbolic execution](https://dl.acm.org/doi/10.1145/2338965.2336773) (published in ISSTA 2012)
+* 2021: Chris Parnin and Alessandro Orso. [Are automated debugging techniques actually helping programmers?](https://dl.acm.org/doi/10.1145/2001420.2001445) (published in ISSTA 2011)
+* 2020: Gordon Fraser and Andreas Zeller. [Mutation-driven generation of unit tests and oracles](https://dl.acm.org/doi/10.1145/1831708.1831728) (published in ISSTA 2010)
+* 2019: Adam Kiezun, Vijay Ganesh, Philip J. Guo, Pieter Hooimeijer, Michael D. Ernst. [HAMPI: a solver for string constraints](https://dl.acm.org/doi/10.1145/1572272.1572286) (published in ISSTA 2009)
+* 2018: Matthew M. Papi, Mahmood Ali, Telmo Luis Correa Jr., Jeff H. Perkins, Michael D. Ernst. [Practical Pluggable Types for Java](https://dl.acm.org/doi/10.1145/1390630.1390656) (published in ISSTA 2008)
+* 2017: James Clause, Wanchun Li, Alessandro Orso. [Dytan: a generic dynamic taint analysis framework](https://dl.acm.org/doi/10.1145/1273463.1273490) (published in ISSTA 2007)
 
 
 ## <a name="retrospective">ISSTA Retrospective Paper Awards</a>
 
 Retrospective paper awards were only given between 2018 and 2020. They are awarded to papers published at ISSTA more than 10 years before the award which have had a significant influence of the research and/or practice of software testing and analysis.
 
-* 2020: Gregg Rothermel and Mary Jean Harrold. Selecting tests and identifying test coverage requirements for modified software (published in ISSTA 1994)
-* 2019: Stephen Fink, Eran Yahav, Nurit Dor, G. Ramalingam, Emmanuel Geay. Effective typestate verification in the presence of aliasing (published in ISSTA 2006)
-* 2018: Willem Visser, Corina S. Păsăreanu, Sarfraz Khurshid. Test Input Generation with Java PathFinder (published in ISSTA 2004)
+* 2020: Gregg Rothermel and Mary Jean Harrold. [Selecting tests and identifying test coverage requirements for modified software](https://dl.acm.org/doi/10.1145/186258.187171) (published in ISSTA 1994)
+* 2019: Stephen Fink, Eran Yahav, Nurit Dor, G. Ramalingam, Emmanuel Geay. [Effective typestate verification in the presence of aliasing](https://dl.acm.org/doi/10.1145/1146238.1146254) (published in ISSTA 2006)
+* 2018: Willem Visser, Corina S. Păsăreanu, Sarfraz Khurshid. [Test Input Generation with Java PathFinder](https://dl.acm.org/doi/abs/10.1145/1007512.1007526) (published in ISSTA 2004)
