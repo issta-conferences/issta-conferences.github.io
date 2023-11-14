@@ -8,14 +8,12 @@ layout: default
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
 
 ## <a name="upcoming">Upcoming Editions</a>
-
-* [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
-	Chairs: René Just, Gordon Fraser
 * [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
     Chairs: Maria Christakis, Michael Pradel
 
 ## <a name="previous">Previous Editions</a>
-
+* [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
+	Chairs: René Just, Gordon Fraser
 * [ISSTA 2022](https://conf.researchr.org/home/issta-2022), Online <br/>
 	Chairs: Sukyoung Ryu, Yannis Smaragdakis
 * [ISSTA 2021](https://conf.researchr.org/home/issta-2021), Online <br/>
