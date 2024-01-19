@@ -64,7 +64,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Thomas J. Ostrand, Elaine J. Weyuker
 
 
-## <a name="steering">Steering Committee (2022-23)</a>
+## <a name="steering">Steering Committee (2023-24)</a>
 
 Chair: Cristian Cadar <br/>
 Vice-chair: Sukyoung Ryu <br/>
@@ -81,13 +81,8 @@ Vice-chair: Sukyoung Ryu <br/>
 * Corina Pasareanu (until 2025)
 * Dongmei Zhang (until 2024)
 * Anders Moller (until 2024)
-* Frank Tip (until 2023)
-* Eric Bodden (until 2023)
 * Tevfik Bultan (until 2024)
 * Koushik Sen (until 2024)
-* Andreas Zeller (until 2023)
-* Abhik Roychoudhury (until 2023)
-
 
 ## <a name="impact">ISSTA Impact Paper Awards</a>
 
