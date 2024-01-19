@@ -66,8 +66,8 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 
 ## <a name="steering">Steering Committee (2023-24)</a>
 
-Chair: Cristian Cadar <br/>
-Vice-chair: Sukyoung Ryu <br/>
+Chair: Sukyoung Ryu<br/>
+Vice-chair: Rene Just<br/>
 
 * Maria Christakis (until 2029)
 * Michael Pradel (until 2029)
