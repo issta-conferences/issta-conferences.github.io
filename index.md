@@ -10,6 +10,8 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 ## <a name="upcoming">Upcoming Editions</a>
 * [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
     Chairs: Maria Christakis, Michael Pradel
+* [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
+    Chairs: Mike Papadakis, Myra Cohen, Paolo Tonella
 
 ## <a name="previous">Previous Editions</a>
 * [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
