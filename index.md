@@ -90,6 +90,7 @@ Vice-chair: Rene Just<br/>
 
 The ISSTA Impact Paper Award in year X is awarded to only one paper annually, published in ISSTA X-10, which has had a significant influence on the research and/or practice of software testing and analysis
 
+* 2024: René Just, Darioush Jalali, Michael Ernst. [Defects4J: a database of existing faults to enable controlled testing studies for Java programs](https://dl.acm.org/doi/10.1145/2610384.2628055) (published in ISSTA 2014)
 * 2023: Ding Li, Shuai Hao, William G.J. Halfond, Ramesh Govindan. [Calculating source line level energy information for Android applications](https://dl.acm.org/doi/10.1145/2483760.2483780) (published in ISSTA 2013)
 * 2022: Jaco Geldenhuys, Matthew B. Dwyer, Willem Visser. [Probabilistic symbolic execution](https://dl.acm.org/doi/10.1145/2338965.2336773) (published in ISSTA 2012)
 * 2021: Chris Parnin and Alessandro Orso. [Are automated debugging techniques actually helping programmers?](https://dl.acm.org/doi/10.1145/2001420.2001445) (published in ISSTA 2011)
