@@ -8,12 +8,12 @@ layout: default
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
 
 ## <a name="upcoming">Upcoming Editions</a>
-* [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
-    Chairs: Maria Christakis, Michael Pradel
 * [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
     Chairs: Mike Papadakis, Myra Cohen, Paolo Tonella
 
 ## <a name="previous">Previous Editions</a>
+* [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
+    Chairs: Maria Christakis, Michael Pradel
 * [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
 	Chairs: René Just, Gordon Fraser
 * [ISSTA 2022](https://conf.researchr.org/home/issta-2022), Online <br/>
@@ -66,11 +66,15 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Thomas J. Ostrand, Elaine J. Weyuker
 
 
-## <a name="steering">Steering Committee (2023-24)</a>
+## <a name="steering">Steering Committee (2024-25)</a>
 
-Chair: Sukyoung Ryu<br/>
-Vice-chair: Rene Just<br/>
+Chair: René Just<br/>
+Vice-chair: Maria Christakis<br/>
 
+* Willem Visser (until 2031)
+* Paolo Tonella (until 2030)
+* Myra B. Cohen (until 2030)
+* Mike Papadakis (until 2030)
 * Maria Christakis (until 2029)
 * Michael Pradel (until 2029)
 * Rene Just (until 2028)
@@ -81,10 +85,6 @@ Vice-chair: Rene Just<br/>
 * Xiangyu Zhang (until 2026)
 * Sarfraz Khurshid (until 2025)
 * Corina Pasareanu (until 2025)
-* Dongmei Zhang (until 2024)
-* Anders Moller (until 2024)
-* Tevfik Bultan (until 2024)
-* Koushik Sen (until 2024)
 
 ## <a name="impact">ISSTA Impact Paper Awards</a>
 
