@@ -72,12 +72,12 @@ Chair: René Just<br/>
 Vice-chair: Maria Christakis<br/>
 
 * Willem Visser (until 2031)
+* Mike Papadakis (until 2030)
 * Paolo Tonella (until 2030)
 * Myra B. Cohen (until 2030)
-* Mike Papadakis (until 2030)
 * Maria Christakis (until 2029)
 * Michael Pradel (until 2029)
-* Rene Just (until 2028)
+* René Just (until 2028)
 * Gordon Fraser (until 2028)
 * Sukyoung Ryu (until 2027)
 * Yannis Smaragdakis (until 2027)
