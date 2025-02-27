@@ -87,8 +87,10 @@ Vice-chair: Maria Christakis<br/>
 * Yannis Smaragdakis (until 2027)
 * Cristian Cadar (until 2026)
 * Xiangyu Zhang (until 2026)
+* Claire Le Goues (until 2026)
 * Sarfraz Khurshid (until 2025)
 * Corina Pasareanu (until 2025)
+
 
 ## <a name="impact">ISSTA Impact Paper Awards</a>
 
