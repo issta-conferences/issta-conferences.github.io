@@ -85,9 +85,9 @@ Vice-chair: Maria Christakis<br/>
 * Gordon Fraser (until 2028)
 * Sukyoung Ryu (until 2027)
 * Yannis Smaragdakis (until 2027)
+* Claire Le Goues (until 2027)
 * Cristian Cadar (until 2026)
 * Xiangyu Zhang (until 2026)
-* Claire Le Goues (until 2026)
 * Sarfraz Khurshid (until 2025)
 * Corina Pasareanu (until 2025)
 
