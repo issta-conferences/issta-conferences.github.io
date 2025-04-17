@@ -54,7 +54,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Lori L. Pollock, Mauro Pezzè
 * ISSTA 2004, Boston, MA, USA <br/>
 	Chairs: George S. Avrunin, Gregg Rothermel
-* [ISSTA 2002](http://labse.isti.cnr.it/ISSTA2002/), Rome, Italy <br/>
+* ISSTA 2002, Rome, Italy <br/>
 	Chairs: Antonia Bertolino, Phyllis G. Frankl
 * [ISSTA 2000](https://faculty.cc.gatech.edu/~harrold/issta00/), Portland, OR, USA <br/>
 	Chairs: Debra J. Richardson, Mary Jean Harold
