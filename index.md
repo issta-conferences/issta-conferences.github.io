@@ -10,7 +10,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 ## <a name="upcoming">Upcoming Editions</a>
 * [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
     Chairs: Mike Papadakis, Myra Cohen, Paolo Tonella
-* ISSTA 2026, Oakland, CA, USA <br />
+* [ISSTA 2026](https://conf.researchr.org/home/issta-2026), Oakland, CA, USA <br />
     Chairs: Willem Visser, Marcel Böhme, Cindy Rubio González
 
 ## <a name="previous">Previous Editions</a>
@@ -68,10 +68,10 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Thomas J. Ostrand, Elaine J. Weyuker
 
 
-## <a name="steering">Steering Committee (2024-25)</a>
+## <a name="steering">Steering Committee (2025-26)</a>
 
-Chair: René Just<br/>
-Vice-chair: Maria Christakis<br/>
+Chair: Maria Christakis<br/>
+Vice-chair: Mike Papadakis<br/>
 
 * Willem Visser (until 2031)
 * Marcel Böhme (until 2031)
@@ -88,9 +88,6 @@ Vice-chair: Maria Christakis<br/>
 * Claire Le Goues (until 2027)
 * Cristian Cadar (until 2026)
 * Xiangyu Zhang (until 2026)
-* Sarfraz Khurshid (until 2025)
-* Corina Pasareanu (until 2025)
-
 
 ## <a name="impact">ISSTA Impact Paper Awards</a>
 
