@@ -34,7 +34,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Andreas Zeller, Abhik Roychoudhury
 * [ISSTA 2015](https://issta2015.cs.uoregon.edu/), Baltimore, MD, USA <br/>
 	Chairs: Michal Young, Tao Xie
-* ISSTA 2014, San Jose, CA, USA <br/>
+* [ISSTA 2014](https://mir.cs.illinois.edu/issta2014/index.html), San Jose, CA, USA <br/>
 	Chairs: Corina S. Pasareanu, Darko Marinov
 * [ISSTA 2013](https://issta2013.inf.usi.ch/), Lugano, Switzerland <br/>
 	Chairs: Mauro Pezzè, Mark Harman
