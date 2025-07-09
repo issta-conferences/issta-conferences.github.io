@@ -8,12 +8,14 @@ layout: default
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
 
 ## <a name="upcoming">Upcoming Editions</a>
-* [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
-    Chairs: Mike Papadakis, Myra Cohen, Paolo Tonella
-* [ISSTA 2026](https://conf.researchr.org/home/issta-2026), Oakland, CA, USA <br />
+* [ISSTA 2026](https://conf.researchr.org/home/issta-2026), Oakland, CA, USA <br/>
     Chairs: Willem Visser, Marcel Böhme, Cindy Rubio González
+* ISSTA 2027, Singapore, Singapore <br/>
+    Chairs: Jun Sun, Dan Hao, Jacques Klein
 
 ## <a name="previous">Previous Editions</a>
+* [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
+    Chairs: Mike Papadakis, Myra Cohen, Paolo Tonella
 * [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
     Chairs: Maria Christakis, Michael Pradel
 * [ISSTA 2023](https://conf.researchr.org/home/issta-2023), Seattle, WA, USA <br/>
@@ -73,6 +75,9 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 Chair: Maria Christakis<br/>
 Vice-chair: Mike Papadakis<br/>
 
+* Jun Sun (until 2032)
+* Dan Hao (until 2032)
+* Jacques Klein (until 2032)
 * Willem Visser (until 2031)
 * Marcel Böhme (until 2031)
 * Cindy Rubio González (until 2031)
