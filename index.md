@@ -12,6 +12,9 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
     Chairs: Willem Visser, Marcel Böhme, Cindy Rubio González
 * ISSTA 2027, Singapore, Singapore <br/>
     Chairs: Jun Sun, Dan Hao, Jacques Klein
+* ISSTA 2028, Shanghai, China <br/>
+    Chairs: Shaoying Liu
+
 
 ## <a name="previous">Previous Editions</a>
 * [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
@@ -75,6 +78,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 Chair: Maria Christakis<br/>
 Vice-chair: Mike Papadakis<br/>
 
+* Shaoying Liu (until 2033)
 * Jun Sun (until 2032)
 * Dan Hao (until 2032)
 * Jacques Klein (until 2032)
