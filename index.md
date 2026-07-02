@@ -13,7 +13,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 * ISSTA 2027, Singapore, Singapore <br/>
     Chairs: Jun Sun, Dan Hao, Jacques Klein
 * ISSTA 2028, Shanghai, China <br/>
-    Chairs: Shaoying Liu
+    Chairs: Shaoying Liu, Cristian Cadar, Maria Christakis
 
 
 ## <a name="previous">Previous Editions</a>
@@ -79,6 +79,8 @@ Chair: Maria Christakis<br/>
 Vice-chair: Mike Papadakis<br/>
 
 * Shaoying Liu (until 2033)
+* Cristian Cadar (until 2033)
+* Maria Christakis (until 2033)
 * Jun Sun (until 2032)
 * Dan Hao (until 2032)
 * Jacques Klein (until 2032)
@@ -88,14 +90,12 @@ Vice-chair: Mike Papadakis<br/>
 * Mike Papadakis (until 2030)
 * Paolo Tonella (until 2030)
 * Myra B. Cohen (until 2030)
-* Maria Christakis (until 2029)
 * Michael Pradel (until 2029)
 * René Just (until 2028)
 * Gordon Fraser (until 2028)
 * Sukyoung Ryu (until 2027)
 * Yannis Smaragdakis (until 2027)
 * Claire Le Goues (until 2027)
-* Cristian Cadar (until 2026)
 * Xiangyu Zhang (until 2026)
 
 ## <a name="impact">ISSTA Impact Paper Awards</a>
