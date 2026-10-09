@@ -8,8 +8,6 @@ layout: default
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
 
 ## <a name="upcoming">Upcoming Editions</a>
-* [ISSTA 2026](https://conf.researchr.org/home/issta-2026), Oakland, CA, USA <br/>
-    Chairs: Willem Visser, Marcel Böhme, Cindy Rubio González
 * [ISSTA 2027](https://conf.researchr.org/home/issta-2027), Singapore, Singapore <br/>
     Chairs: Jun Sun, Dan Hao, Jacques Klein
 * ISSTA 2028, Shanghai, China <br/>
@@ -17,6 +15,8 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 
 
 ## <a name="previous">Previous Editions</a>
+* [ISSTA 2026](https://conf.researchr.org/home/issta-2026), Oakland, CA, USA <br/>
+    Chairs: Willem Visser, Marcel Böhme, Cindy Rubio González
 * [ISSTA 2025](https://conf.researchr.org/home/issta-2025), Trondheim, Norway <br/>
     Chairs: Mike Papadakis, Myra Cohen, Paolo Tonella
 * [ISSTA 2024](https://conf.researchr.org/home/issta-2024), Vienna, Austria <br/>
@@ -73,10 +73,9 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 	Chairs: Thomas J. Ostrand, Elaine J. Weyuker
 
 
-## <a name="steering">Steering Committee (2025-26)</a>
+## <a name="steering">Steering Committee (2026-27)</a>
 
 Chair: Maria Christakis<br/>
-Vice-chair: Mike Papadakis<br/>
 
 * Shaoying Liu (until 2033)
 * Cristian Cadar (until 2033)
@@ -96,13 +95,13 @@ Vice-chair: Mike Papadakis<br/>
 * Sukyoung Ryu (until 2027)
 * Yannis Smaragdakis (until 2027)
 * Claire Le Goues (until 2027)
-* Xiangyu Zhang (until 2026)
 
 ## <a name="impact">ISSTA Impact Paper Awards</a>
 
 The ISSTA Impact Paper Award in year X is awarded to only one paper annually, published in ISSTA X-10, which has had a significant influence on the research and/or practice of software testing and analysis
 
-* 2025: Zichao Qi, Fan Long, Sara Achour, and Martin Rinard. [An analysis of patch plausibility and correctness for generate-and-validate patch generation systems](https://doi.org/10.1145/2771783.2771791) (published in ISSTA 2015)
+* 2026: Ke Mao, Mark Harman, and Yue Jia. [Sapienz: Multi-objective Automated Testing for Android Applications](https://dl.acm.org/doi/10.1145/2931037.2931054) (published in ISSTA 2016)
+* 2025: Zichao Qi, Fan Long, Sara Achour, and Martin Rinard. [An analysis of patch plausibility and correctness for generate-and-validate patch generation systems](https://dl.acm.org/doi/10.1145/2771783.2771791) (published in ISSTA 2015)
 * 2024: René Just, Darioush Jalali, Michael Ernst. [Defects4J: a database of existing faults to enable controlled testing studies for Java programs](https://dl.acm.org/doi/10.1145/2610384.2628055) (published in ISSTA 2014)
 * 2023: Ding Li, Shuai Hao, William G.J. Halfond, Ramesh Govindan. [Calculating source line level energy information for Android applications](https://dl.acm.org/doi/10.1145/2483760.2483780) (published in ISSTA 2013)
 * 2022: Jaco Geldenhuys, Matthew B. Dwyer, Willem Visser. [Probabilistic symbolic execution](https://dl.acm.org/doi/10.1145/2338965.2336773) (published in ISSTA 2012)
