@@ -76,7 +76,6 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 ## <a name="steering">Steering Committee (2026-27)</a>
 
 Chair: Maria Christakis<br/>
-Vice-chair: Mike Papadakis<br/>
 
 * Shaoying Liu (until 2033)
 * Cristian Cadar (until 2033)
