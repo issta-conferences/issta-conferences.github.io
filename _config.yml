@@ -1,7 +1,18 @@
 title: ISSTA
 description: ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 
-remote_theme: pages-themes/minimal@v0.2.0
+url: https://www.issta.org
+baseurl: ""
+repository: issta-conferences/issta-conferences.github.io
 plugins:
-- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-github-metadata
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- script
+- vendor
+- minimal
 
