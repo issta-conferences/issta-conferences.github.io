@@ -2,5 +2,16 @@
 
 set -e
 
-gem install bundler
-bundle install
+cd "$(dirname "$0")/.."
+
+bundler_version=$(ruby -e 'puts File.read("Gemfile.lock").split("BUNDLED WITH").last.strip')
+user_gem_bin=$(ruby -e 'require "rubygems"; puts File.join(Gem.user_dir, "bin")')
+PATH="$user_gem_bin:$PATH"
+export PATH
+
+if ! gem list --installed --exact bundler --version "$bundler_version" >/dev/null; then
+  gem install --user-install bundler --version "$bundler_version" --no-document
+fi
+
+bundle "_${bundler_version}_" config set --local path vendor/bundle
+bundle "_${bundler_version}_" install
